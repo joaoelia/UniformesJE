@@ -1,1 +1,30 @@
 
+body {
+  background-color: #F6E6CE;
+  padding: 0;
+  margin: 0;
+
+}
+
+#Cabecalho {
+  background-color: #FEF1E0;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1.5rem 6rem;
+}
+
+#Menu {
+  display: flex;
+  align-items: center;
+
+}
+
+#Barra_de_pesquisa {
+  display: flex;
+  align-items: center;
+}
+
+#Logo {
+  display: flex;
+  align-items: center;
+}
