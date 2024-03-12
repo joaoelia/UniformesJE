@@ -1,6 +1,5 @@
-# UniformesJE
+UniformesJE
+O UniformesJE é a solução definitiva para simplificar a compra de uniformes escolares, tornando o processo mais eficiente e conveniente para estudantes e responsáveis financeiros.
 
-Apresentação
-O UniformeJE é uma plataforma inovadora que simplifica a compra de uniformes escolares, proporcionando conveniência e eficiência para estudantes e responsáveis financeiros.
-Nosso objetivo é atender às necessidades de pessoas que enfrentam dificuldades para adquirir uniformes escolares, tanto em escolas públicas quanto privadas.
-
+Público-alvo
+O público-alvo do UniformesJE são pessoas que têm difícil acesso aos uniformes escolares, seja em escolas públicas ou privadas.
