@@ -44,5 +44,12 @@ Até o momento, essa ideia foi amplamente debatida no colégio e faculdade Cotem
 
 Os principais desafios incluem a competição com fornecedores tradicionais de uniformes, a garantia de uma entrega confiável e pontual dos produtos e a necessidade de manter a satisfação do cliente em um ambiente altamente competitivo.
 
+### Linguagens Utilizadas e Estudos Visuais: 💻💻
+
+- HTML
+- CSS
+- JavaScript
+- Figma
+- Canva
 
 
