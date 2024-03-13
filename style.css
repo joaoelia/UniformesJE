@@ -31,5 +31,15 @@ body {
 dl {
   display: flex;
   align-items: center;
-  
+
+}
+
+#Carrosel {
+  display: flex;
+}
+
+h1 {
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
