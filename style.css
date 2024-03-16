@@ -17,14 +17,11 @@ img {
   padding: 1.5rem 6rem;
 }
 
-#Menu {
+#input-search {
   display: flex;
   align-items: center;
-}
-
-#Barra_de_pesquisa {
-  display: flex;
-  align-items: center;
+  position: relative;
+  padding: 0.625rem;
 }
 
 #Logo {
@@ -54,6 +51,10 @@ h1 {
   background-color: #3b2e2a;
   margin: 5px;
   padding: 20px;
+}
+
+.destaque-item a {
+  text-decoration: none;
 }
 
 .destaque-item {
@@ -114,12 +115,13 @@ footer {
 /* Celular */
 
 @media screen and (max-width: 600px) {
-  #Barra_de_pesquisa {
+  #input-search {
     display: none;
   }
 
   #Logo {
-    display: none;
+    display: flex;
+    align-items: center;
   }
 
   #Cabecalho {
