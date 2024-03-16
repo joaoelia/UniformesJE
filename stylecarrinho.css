@@ -1,0 +1,151 @@
+body {
+    background-color: #f6e6ce;
+    padding: 0;
+    margin: 0;
+}
+
+#Cabecalho {
+    background-color: #fef1e0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1.5rem 6rem;
+}
+  
+#input-search {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 0.625rem;
+}
+  
+#Logo {
+    display: flex;
+    align-items: center;
+}
+  
+dl {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3b2e2a;
+}
+
+main p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+
+footer {
+    background-color: #fef1e0;
+    margin-top: 50vh;
+}
+  
+#Texto-Footer {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 10px;
+}
+  
+.Rede-social {
+    text-align: center;
+}
+  
+.Rede-Social img {
+    display: block;
+    margin: 0 auto;
+}
+  
+.Rede-Social dd {
+    color: #000000;
+    font-size: xx-small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+#Texto-Footer a {
+    text-decoration: none;
+    font-family: arial;
+    font-style: normal;
+    color: #000000;
+}
+  
+#Texto-Footer p {
+    font-family: arial;
+    font-style: normal;
+    color: #000000;
+}
+  
+  /* Celular */
+  
+@media screen and (max-width: 600px) {
+    #input-search {
+      display: none;
+    }
+  
+    #Logo {
+      display: flex;
+      align-items: center;
+    }
+  
+    #Cabecalho {
+      background-color: #fef1e0;
+      display: flex;
+      justify-content: space-between;
+      padding: 1.5rem 6rem;
+    }
+
+
+  
+    #Texto-Footer {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin: 5px;
+      padding: 10px;
+    }
+  
+    #Texto-Footer dl {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+  
+    #Texto-Footer dl a {
+      display: none;
+    }
+  }
+  
+  @media screen and (max-width: 280px) and (max-width: 653px) {
+    #Menu {
+      margin-left: 40px;
+      width: 10px;
+      height: 10px;
+    }
+  
+    dl dd img {
+      display: none;
+    }
+  
+    #Destaques {
+      display: block;
+    }
+  
+    #Texto-Footer {
+      display: none;
+    }
+  }
+  
