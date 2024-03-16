@@ -51,5 +51,5 @@ Os principais desafios incluem a competição com fornecedores tradicionais de u
 - JavaScript
 - Figma
 - Canva
-
+----------------
 
